@@ -40,11 +40,14 @@
         <mxCell id="fKRmM9OKUkbwJ9Rx4xV--10" value="新建侦察、频谱测向、导航诱骗&lt;div&gt;下发任务、&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-30" y="140" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fKRmM9OKUkbwJ9Rx4xV--11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="fKRmM9OKUkbwJ9Rx4xV--11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="220" as="sourcePoint" />
+            <mxPoint x="190" y="220" as="sourcePoint" />
             <mxPoint x="-40" y="220" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fKRmM9OKUkbwJ9Rx4xV--12" value="全频段干扰设备状态数据、任务状态恢复、频谱图、雨图数据、全频段侦测设备状态数据、" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="230" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
