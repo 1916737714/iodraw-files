@@ -46,8 +46,8 @@
             <mxPoint x="-40" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fKRmM9OKUkbwJ9Rx4xV--12" value="全频段干扰设备状态数据、任务状态恢复、频谱图、雨图数据、全频段侦测设备状态数据、" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="230" width="220" height="30" as="geometry" />
+        <mxCell id="fKRmM9OKUkbwJ9Rx4xV--12" value="全频段干扰设备状态数据、任务状态恢复、频谱图、雨图数据、全频段侦测设备状态数据、频谱测向数据、全功能侦测设备" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="230" width="220" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
