@@ -19,6 +19,9 @@
             <mxPoint x="440" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fKRmM9OKUkbwJ9Rx4xV--5" value="任务数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
