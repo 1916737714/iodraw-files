@@ -10,7 +10,7 @@
         <mxCell id="fKRmM9OKUkbwJ9Rx4xV--2" value="全频段侦测设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="160" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fKRmM9OKUkbwJ9Rx4xV--3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fKRmM9OKUkbwJ9Rx4xV--3" value="FW软件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-140" y="160" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
