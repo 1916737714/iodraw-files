@@ -37,7 +37,7 @@
             <mxPoint x="190" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fKRmM9OKUkbwJ9Rx4xV--10" value="新建侦察、频谱侧向" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fKRmM9OKUkbwJ9Rx4xV--10" value="新建侦察、频谱测向、导航诱骗&lt;div&gt;下发任务、&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-30" y="140" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
