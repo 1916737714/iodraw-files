@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fKRmM9OKUkbwJ9Rx4xV--1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fKRmM9OKUkbwJ9Rx4xV--1" value="全频段干扰设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="160" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fKRmM9OKUkbwJ9Rx4xV--2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
